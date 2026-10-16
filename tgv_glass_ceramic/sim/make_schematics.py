@@ -35,7 +35,7 @@ def process_route():
             ax.add_patch(Polygon([[3.1, 8], [3.7, 8], [4.4, 1], [3.8, 1]], color=C[2], alpha=0.55, lw=0))
             ax.add_patch(Polygon([[6.3, 8], [6.9, 8], [6.2, 1], [5.6, 1]], color=C[2], alpha=0.55, lw=0))
             ax.add_patch(Polygon([[3.7, 8], [6.3, 8], [5.6, 1], [4.4, 1]], facecolor="white", edgecolor=INK2, lw=1))
-            ax.text(2.0, 0.3, "相环(低E/高α 梯度)", fontsize=8, color=C[2])
+            ax.text(1.2, 0.3, "相环(低E·宽梯度·CTE适配)", fontsize=8, color=C[2])
         else:
             crystals(ax, 0.6, 9.4, 1.1, 7.9, 0.16, 330, SEQ[5], exclude=(3.0, 7.0))
             ax.add_patch(Polygon([[3.1, 8], [3.7, 8], [4.4, 1], [3.8, 1]], color=C[2], alpha=0.55, lw=0))

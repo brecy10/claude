@@ -9,6 +9,8 @@
 | `results/` | 各模块数值结果（JSON）与运行日志；`summary.json` 为关键数值与 19 组交叉验证汇总 |
 | `figures/` | 报告全部插图（PNG，200 dpi） |
 | `research/` | 文献调研笔记（工艺与产业 / 可靠性与矛盾 / 微晶玻璃 / 射频与高影响力论文） |
+| `research_notes/`、`reports/` | 应力缓冲层专题调研笔记与报告（Markdown + Word） |
+| `sim/buffer_recheck/` | 缓冲策略全局指标复算脚本（相环变体、峰值定位、共形 Cu 壁厚） |
 | `report/` | 报告源文件（`part1–5.md`）与 Word 生成脚本 `md2docx.js`（docx-js） |
 
 ## 复现
