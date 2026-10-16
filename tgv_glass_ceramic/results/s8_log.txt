@@ -1,0 +1,15 @@
+findfont: Failed to find font weight normal for WenQuanYi Zen Hei, now using 500.
+findfont: Failed to find font weight normal for WenQuanYi Zen Hei, now using 500.
+findfont: Failed to find font weight normal for WenQuanYi Zen Hei, now using 500.
+findfont: Failed to find font weight normal for WenQuanYi Zen Hei, now using 500.
+saved /home/user/claude/tgv_glass_ceramic/figures/s8_selsing_validation.png
+{'cordierite': {'P_selsing': -141665344.96431404, 'fem_err_matrix': 0.0005917717270846068}, 'forsterite': {'P_selsing': 408748481.16646415, 'fem_err_matrix': 0.0009627620349447117}}
+findfont: Failed to find font weight normal for WenQuanYi Zen Hei, now using 500.
+findfont: Failed to find font weight normal for WenQuanYi Zen Hei, now using 500.
+Font 'default' does not have a glyph for '\u2212' [U+2212], substituting with a dummy symbol.
+Font 'default' does not have a glyph for '\u2212' [U+2212], substituting with a dummy symbol.
+Font 'default' does not have a glyph for '\u2212' [U+2212], substituting with a dummy symbol.
+Font 'default' does not have a glyph for '\u2212' [U+2212], substituting with a dummy symbol.
+saved /home/user/claude/tgv_glass_ceramic/figures/s8_mismatch_microcrack.png
+dcrit forsterite 8.301198643997218 cordierite 57.696760823154236
+saved /home/user/claude/tgv_glass_ceramic/figures/s8_paradox.png

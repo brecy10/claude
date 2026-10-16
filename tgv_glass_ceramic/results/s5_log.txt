@@ -1,0 +1,7 @@
+[{'sub': 'BG', 'phi': 0.0, 'T_series': np.float64(142.86787060967427), 'T_fem': np.float64(142.95103543984496), 'rel': np.float64(0.000582110098063268)}, {'sub': 'BG', 'phi': 0.1, 'T_series': np.float64(53.365620723198056), 'T_fem': np.float64(53.37810183742747), 'rel': np.float64(0.0002338793039465348)}, {'sub': 'GCF', 'phi': 0.0, 'T_series': np.float64(77.3326592148782), 'T_fem': np.float64(77.35879304858074), 'rel': np.float64(0.00033794045061756784)}, {'sub': 'GCF', 'phi': 0.1, 'T_series': np.float64(51.237897847588314), 'T_fem': np.float64(51.24471854487774), 'rel': np.float64(0.0001331182108547101)}]
+findfont: Failed to find font weight normal for WenQuanYi Zen Hei, now using 500.
+findfont: Failed to find font weight normal for WenQuanYi Zen Hei, now using 500.
+findfont: Failed to find font weight normal for WenQuanYi Zen Hei, now using 500.
+findfont: Failed to find font weight normal for WenQuanYi Zen Hei, now using 500.
+findfont: Failed to find font weight normal for WenQuanYi Zen Hei, now using 500.
+saved /home/user/claude/tgv_glass_ceramic/figures/s5_thermal.png

@@ -1,0 +1,29 @@
+BG -2.2844244395016657 2.281239157225903 0.0013943478368920736 alpha_eff 5.905774533367627e-06
+GCC -1.8265127873305016 1.8244380591397333 0.0011358957928789166 alpha_eff 5.428084687452401e-06
+GCF -1.374929689764396 1.3733960321439707 0.0011154443982426738 alpha_eff 8.96683977496565e-06
+ORG -1.022009970134408 1.0214520222899395 0.0005459318996616359 alpha_eff 1.4848319346559483e-05
+findfont: Failed to find font weight normal for WenQuanYi Zen Hei, now using 500.
+findfont: Failed to find font weight normal for WenQuanYi Zen Hei, now using 500.
+findfont: Failed to find font weight normal for WenQuanYi Zen Hei, now using 500.
+findfont: Failed to find font weight normal for WenQuanYi Zen Hei, now using 500.
+findfont: Failed to find font weight normal for WenQuanYi Zen Hei, now using 500.
+saved /home/user/claude/tgv_glass_ceramic/figures/s4_warpage.png
+findfont: Failed to find font weight normal for WenQuanYi Zen Hei, now using 500.
+findfont: Failed to find font weight normal for WenQuanYi Zen Hei, now using 500.
+findfont: Failed to find font weight normal for WenQuanYi Zen Hei, now using 500.
+saved /home/user/claude/tgv_glass_ceramic/figures/s4_cte_dilemma.png
+dilemma {'glass': {'alpha_range': None, 'Bmax_mm': 0.0}, 'gc': {'alpha_range': [1.0999999999999999, 7.299999999999999], 'Bmax_mm': 53.00000000000001}}
+Font 'default' does not have a glyph for '\u2212' [U+2212], substituting with a dummy symbol.
+Font 'default' does not have a glyph for '\u2212' [U+2212], substituting with a dummy symbol.
+Font 'default' does not have a glyph for '\u2212' [U+2212], substituting with a dummy symbol.
+Font 'default' does not have a glyph for '\u2212' [U+2212], substituting with a dummy symbol.
+Font 'default' does not have a glyph for '\u2212' [U+2212], substituting with a dummy symbol.
+Font 'default' does not have a glyph for '\u2212' [U+2212], substituting with a dummy symbol.
+findfont: Failed to find font weight normal for WenQuanYi Zen Hei, now using 500.
+Font 'default' does not have a glyph for '\u2212' [U+2212], substituting with a dummy symbol.
+Font 'default' does not have a glyph for '\u2212' [U+2212], substituting with a dummy symbol.
+Font 'default' does not have a glyph for '\u2212' [U+2212], substituting with a dummy symbol.
+Font 'default' does not have a glyph for '\u2212' [U+2212], substituting with a dummy symbol.
+Font 'default' does not have a glyph for '\u2212' [U+2212], substituting with a dummy symbol.
+Font 'default' does not have a glyph for '\u2212' [U+2212], substituting with a dummy symbol.
+saved /home/user/claude/tgv_glass_ceramic/figures/s4_cte_df_map.png

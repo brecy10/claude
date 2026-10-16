@@ -1,0 +1,22 @@
+# B. Reliability & contradictions (subagent summary; snippet-based)
+- Okoro, Jayaraman, Pollard (Corning), Microelectron. Reliab. 120:114092 (2021): radial cracks in fully metallized TGV (HPFS fused silica) during HEATING of 400-420C anneal (hoop tension).
+- IEEE TDMR 21(3):354-360 (2021): circumferential cracks during COOLING from 400C; via OD 47.5 um, HPFS; crack likelihood exponential in Cu thickness; eliminated for Cu < ~12 um; threshold stress 140 MPa.
+- HIT (Wang, Ma et al.): corner cracks at top glass corner after 5 min @400C (IEEE 2024); Microsystems & Nanoengineering 2026 (s41378-026-01162-y): anneal relaxes then long anneal leaves residual tension -> cracks; protrusion 0.61->1.21 um (5->30 min @400C), sim 0.50->0.89 um; thermal shock -55/150: crack after 300 cycles at TGV-RDL; HT aging Cu grain 3.12->9.97 um, voids at Cu/Ti.
+- Ahmed et al. TDMR 20(1):199 (2020): freestanding TGV Cu yield 123+-7.85 MPa. Pan et al. TCPMT 2023 time-hardening creep 25-400C; slower ramp -> more creep -> less glass deformation (DIC).
+- Zhao, Chen, Qin, Yu, Micromachines 13(10):1799 (2022): stress rises with Cu fill fraction; glass CTE most influential; polymer buffer helps.
+- Le & Choa J Mech Sci Technol (2024?): ERR during anneal: fused silica > aluminosilicate > borosilicate > Gorilla > ceramic glass (ceramic glass 4.4x lower than FS); hollow TGV lowest ERR. Le, Yoo, Choa Micromachines 16(11):1256 (2025): high-CTE glasses suppress cracks; edge clearance >=300 um; thinning to 100 um raises ERR ~30%. G_c=2 J/m2 used.
+- 电子与封装 25(7) 2025: 1 um buffer -> ~40% lower max principal stress; inorganic buffer -66.6% (赵全禄 070108); 马晓晗 070109; 马秉旭 070106.
+- Parylene-F liner (Hanyang MRS 2026): up to 73% lower fracture probability.
+- BOE SID Digest 2025: protrusion linked to plating additive impurities (Borofloat33, 0.645 mm, 55 um blind vias).
+- Submodel FEA Micromachines 2023 (PMC10456845): max principal 130.75 MPa at via sidewall; >=4 pitches for submodel.
+- Thermal cycling: GT/Corning IMAPS 2014 30 um TPV in thin glass passed 1000 cycles -55/125; Demir TDMR 2017 polymer layers eliminate cracks; Singh TCPMT 2017 7(5):726: CTE 9.8 glass >5000 cycles vs CTE 3.8 glass (BLR); Unimicron IMAPS 2016; HIT shock cracks 300 cycles; TU Delft ECTC 2026 AF32 2100 cycles.
+- Lau et al. IMAPS 2024: glass core Si-matched worsens board-level: warpage 73 um vs 58 (85C), -103 vs 69 (-40C).
+- Demir ECTC 2016 CuO Raman stress sensor around TPVs.
+- SeWaRe sidewall cracking at glass edge (Wei, Sunohara, Wei & Frederick DISCO); dicing microcracks ~100 nm wide >100 um deep.
+- Thermal: glass ~1.2 W/mK; Fraunhofer: 20 um Cu TGV @100 um pitch in 110 um glass -> die temp -38C; pitch 100-400 um only 2.9C change.
+- Adhesion peel: Ti/Cu ~1.5 N/cm; Atotech metal oxide ~5 N/cm; ECS ~10 N/cm after anneal on aluminoborosilicate.
+- Dk/Df spread: FS Dk 3.8 tan 0.0004 @100 GHz; aluminoborosilicate 5.0/0.006 @10 GHz (15x spread).
+- TSMC JPCA 2026: 16% better coplanarity, 19% lower eff. CTE, 31% higher eff modulus.
+- Contradictions: (1) best glass (low CTE for die vs high CTE for via & BLR); (2) heating vs cooling crack; (3) filled vs conformal; (4) protrusion mechanism creep vs impurity; (5) warpage benefit +16% to >90% vs worse board-level; (6) adhesion 1.5-10 N/cm; (7) Dk/Df scatter; (8) LIDE crack-free vs field microcracks; (9) readiness claims vs yields.
+- Gaps: no HAST/drop at 510x515; no Weibull/edge-strength DB; no multi-glass matched experiments; no KOZ rules; no synchrotron/photoelastic TGV maps; no roughness-RF on glass; no thermal-vs-crack co-optimization; no glass-core qualification standard.
+- Refs: Binghamton review Microelectron Reliab 161 (2024); Nimbalkar et al. Chips 4(3):37 (2025); ISTFA 2026 glass core FA; IEEE EPS TC notes Nov 2025; DigiTimes BOE June 2026.

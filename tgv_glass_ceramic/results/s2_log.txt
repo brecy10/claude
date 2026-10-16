@@ -1,0 +1,17 @@
+findfont: Failed to find font weight normal for WenQuanYi Zen Hei, now using 500.
+findfont: Failed to find font weight normal for WenQuanYi Zen Hei, now using 500.
+findfont: Failed to find font weight normal for WenQuanYi Zen Hei, now using 500.
+findfont: Failed to find font weight normal for WenQuanYi Zen Hei, now using 500.
+findfont: Failed to find font weight normal for WenQuanYi Zen Hei, now using 500.
+Font 'default' does not have a glyph for '\u2212' [U+2212], substituting with a dummy symbol.
+Font 'default' does not have a glyph for '\u2212' [U+2212], substituting with a dummy symbol.
+Font 'default' does not have a glyph for '\u2212' [U+2212], substituting with a dummy symbol.
+Font 'default' does not have a glyph for '\u2212' [U+2212], substituting with a dummy symbol.
+saved /home/user/claude/tgv_glass_ceramic/figures/s2_via_profile.png
+taper [np.float64(5.738384316571699), np.float64(2.8632155546383404), np.float64(1.1470852866012784), np.float64(0.5680698403027533), np.float64(0.197283573701678)] [np.float64(5.739170477266787), np.float64(2.8659839825988622), np.float64(1.1459919983885924), np.float64(0.5729673448571526), np.float64(0.19098628538969414)]
+findfont: Failed to find font weight normal for WenQuanYi Zen Hei, now using 500.
+findfont: Failed to find font weight normal for WenQuanYi Zen Hei, now using 500.
+saved /home/user/claude/tgv_glass_ceramic/figures/s2_roughness_selectivity.png
+{'d_um': [0.03, 0.06, 0.12, 0.25], 'f': 0.5, 'fmm': {'3': [np.float64(0.023372659939315615), np.float64(0.051119073957009646), np.float64(0.0871932464255244), np.float64(0.17292851574194743)], '10': [np.float64(0.07094261716736673), np.float64(0.15907126285620124), np.float64(0.24745870811556064), np.float64(0.36527156601182137)], '30': [np.float64(0.15990396591695974), np.float64(0.2566489734161342), np.float64(0.35714632505459165), np.float64(0.5470976387635608)]}, 'ca': {'3': [np.float64(0.025299511070703853), np.float64(0.058168920085290295), np.float64(0.08941662628144476), np.float64(0.18427124552431756)], '10': [np.float64(0.061689324525534134), np.float64(0.1531779430016679), np.float64(0.2450656232975613), np.float64(0.4115974609484151)], '30': [np.float64(0.166896548494286), np.float64(0.2691764651209314), np.float64(0.33555486014460684), np.float64(0.5205831575081669)]}}
+{'f': [0.1, 0.3, 0.5, 0.6, 0.7, 0.8], '3': [np.float64(0.9996180350292878), np.float64(1.0550951158584727), np.float64(1.1399627124405858), np.float64(1.216200135135661), np.float64(1.443835664279596), np.float64(1.6575212484681907)], '10': [np.float64(1.037742117257457), np.float64(1.1556515171743589), np.float64(1.328619553393367), np.float64(1.4895027178664526), np.float64(1.8891255170252415), np.float64(2.961947094797663)], '30': [np.float64(1.2447417511521885), np.float64(1.5283270704646972), np.float64(2.171359264887126), np.float64(2.638353641049265), np.float64(8.690610074625322), np.float64(8.063139804838281)]}
+saved /home/user/claude/tgv_glass_ceramic/figures/s2_selectivity_ar.png

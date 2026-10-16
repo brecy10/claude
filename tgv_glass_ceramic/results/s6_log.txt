@@ -1,0 +1,13 @@
+findfont: Failed to find font weight normal for WenQuanYi Zen Hei, now using 500.
+findfont: Failed to find font weight normal for WenQuanYi Zen Hei, now using 500.
+findfont: Failed to find font weight normal for WenQuanYi Zen Hei, now using 500.
+findfont: Failed to find font weight normal for WenQuanYi Zen Hei, now using 500.
+saved /home/user/claude/tgv_glass_ceramic/figures/s6_dielectric_homogenization.png
+rve err [1.45662445e-05 5.57727608e-05 7.01644928e-05 1.33986038e-04
+ 1.32479563e-04]
+[{'s_over_d': 1.5, 'C_fem': np.float64(2.8840720170389273e-11), 'C_exact': np.float64(2.8902294101720595e-11), 'rel': np.float64(0.002130416745280312)}, {'s_over_d': 2.0, 'C_fem': np.float64(2.1080399654702628e-11), 'C_exact': np.float64(2.112159504198998e-11), 'rel': np.float64(0.001950391871705441)}, {'s_over_d': 3.0, 'C_fem': np.float64(1.5753889292621614e-11), 'C_exact': np.float64(1.5780057285503825e-11), 'rel': np.float64(0.001658295176548571)}, {'s_over_d': 4.0, 'C_fem': np.float64(1.3460997780776053e-11), 'C_exact': np.float64(1.3480542637089101e-11), 'rel': np.float64(0.0014498567928025621)}, {'s_over_d': 6.0, 'C_fem': np.float64(1.1213292199639032e-11), 'C_exact': np.float64(1.1225787117147266e-11), 'rel': np.float64(0.0011130549134632634)}]
+findfont: Failed to find font weight normal for WenQuanYi Zen Hei, now using 500.
+saved /home/user/claude/tgv_glass_ceramic/figures/s6_tgv_impedance.png
+findfont: Failed to find font weight normal for WenQuanYi Zen Hei, now using 500.
+saved /home/user/claude/tgv_glass_ceramic/figures/s6_insertion_loss.png
+{'FS': {28: 0.013393197507913943, 77: 0.023677294707255093, 140: 0.034095896399587516, 170: 0.038730212724571035, 220: 0.04600554894065876}, 'BG': {28: 0.024551018300572755, 77: 0.0679407834013871, 140: 0.13232811616500437, 170: 0.1665977877428607, 220: 0.22643533090712945}, 'GCC': {28: 0.013547660463855337, 77: 0.02519712095336279, 140: 0.037848086024585545, 170: 0.04368151257031329, 220: 0.053067194202367426}, 'GCF': {28: 0.013339203715086699, 77: 0.02510200072257566, 140: 0.038061925708823385, 170: 0.044084467222678454, 220: 0.053830814827012165}, 'ORG': {28: 0.024374676728377325, 77: 0.060953426747288264, 140: 0.10991211420587677, 170: 0.1346405398976138, 220: 0.1765402499935487}} {'FS': 1.9839210281565096, 'BG': 2.2987822664369326, 'GCC': 2.3258124788408625, 'GCF': 2.702796836387543, 'ORG': 2.0693142096534753} 0.008217025710598047 {'FS': 0.011066261265654681, 'BG': 0.34375923533972835, 'GCC': 0.028104814006615058, 'GCF': 0.03166292348948898, 'ORG': 0.26563086296826954}

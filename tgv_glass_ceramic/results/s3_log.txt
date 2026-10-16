@@ -1,0 +1,26 @@
+findfont: Failed to find font weight normal for WenQuanYi Zen Hei, now using 500.
+findfont: Failed to find font weight normal for WenQuanYi Zen Hei, now using 500.
+findfont: Failed to find font weight normal for WenQuanYi Zen Hei, now using 500.
+findfont: Failed to find font weight normal for WenQuanYi Zen Hei, now using 500.
+findfont: Failed to find font weight normal for WenQuanYi Zen Hei, now using 500.
+saved /home/user/claude/tgv_glass_ceramic/figures/s3_validation_lame_fem.png
+validation {'sr': {'q4_max_rel': 0.008240742509359703, 'p2_max_rel': 0.00035870659547951886}, 'st': {'q4_max_rel': 0.004027209933561222, 'p2_max_rel': 0.0001512181421116037}, 'sz': {'q4_max_rel': 0.0017659707771219546, 'p2_max_rel': 4.090381036649406e-05}}
+FS done 23.7 s
+BG done 20.5 s
+GCC done 22.5 s
+GCF done 17.8 s
+findfont: Failed to find font weight normal for WenQuanYi Zen Hei, now using 500.
+saved /home/user/claude/tgv_glass_ceramic/figures/s3_history_elastoplastic.png
+saved /home/user/claude/tgv_glass_ceramic/figures/s3_field_hoop_400C.png
+{'FS': {'st_mid_max': 426154455.423133, 'st_max': 448321614.0358326, 's1_max': 490202044.9870234, 'sr_res_after_anneal': 129214603.2941625, 'protr_400': 9.253642047586386e-07, 'protr_res': 5.753533398788102e-07, 'dpacc_cycle': 0.004944927448792186}, 'BG': {'st_mid_max': 356301405.2211978, 'st_max': 380956006.0386878, 's1_max': 412066264.3912803, 'sr_res_after_anneal': 102911946.85759974, 'protr_400': 6.851407235010677e-07, 'protr_res': 4.04715007074851e-07, 'dpacc_cycle': 0.00397647194818837}, 'GCC': {'st_mid_max': 451498617.6866109, 'st_max': 476302433.7332079, 's1_max': 513491893.6496307, 'sr_res_after_anneal': 150538030.98148146, 'protr_400': 8.7379374498706e-07, 'protr_res': 5.638800154451087e-07, 'dpacc_cycle': 0.0013216871271993502}, 'GCF': {'st_mid_max': 316018377.33523095, 'st_max': 335637953.7897854, 's1_max': 353267020.2514831, 'sr_res_after_anneal': 94273181.11804841, 'protr_400': 4.6456847947945297e-07, 'protr_res': 2.717731071191327e-07, 'dpacc_cycle': 0.0009667765675039353}}
+saved /home/user/claude/tgv_glass_ceramic/figures/s3_sweep_cte.png
+BG 实心Cu(基准) {'st_heat': np.float64(381.0), 'st_mid': np.float64(356.3), 's1_heat': np.float64(412.1), 'sr_res': np.float64(102.9), 'protr_res': np.float64(4.04715007074851e-07), 'protr_max': np.float64(6.851407235010677e-07)}
+GC-F 实心Cu {'st_heat': np.float64(335.6), 'st_mid': np.float64(316.0), 's1_heat': np.float64(353.3), 'sr_res': np.float64(94.3), 'protr_res': np.float64(2.717731071191327e-07), 'protr_max': np.float64(4.6456847947945297e-07)}
+GC-F + 2µm聚合物衬层 {'st_heat': np.float64(307.8), 'st_mid': np.float64(214.7), 's1_heat': np.float64(341.1), 'sr_res': np.float64(65.3), 'protr_res': np.float64(1.695234378288865e-07), 'protr_max': np.float64(4.2850565010500753e-07)}
+GC-F 共形Cu 8µm {'st_heat': np.float64(153.8), 'st_mid': np.float64(46.0), 's1_heat': np.float64(233.7), 'sr_res': np.float64(197.4), 'protr_res': np.float64(2.4210568408165648e-08), 'protr_max': np.float64(3.335831441120983e-08)}
+GC-F + 玻璃相环(激光非晶化) {'st_heat': np.float64(383.7), 'st_mid': np.float64(368.0), 's1_heat': np.float64(383.7), 'sr_res': np.float64(81.3), 'protr_res': np.float64(2.4908972120876526e-07), 'protr_max': np.float64(4.3436439178721143e-07)}
+GC-F + 富晶梯度环(激光晶化) {'st_heat': np.float64(423.8), 'st_mid': np.float64(396.9), 's1_heat': np.float64(423.8), 'sr_res': np.float64(104.6), 'protr_res': np.float64(2.921964025188083e-07), 'protr_max': np.float64(4.889721204533825e-07)}
+GC-F + 低模量高CTE梯度环 {'st_heat': np.float64(236.3), 'st_mid': np.float64(100.0), 's1_heat': np.float64(282.6), 'sr_res': np.float64(82.3), 'protr_res': np.float64(2.383696915634011e-07), 'protr_max': np.float64(4.3013707080869075e-07)}
+saved /home/user/claude/tgv_glass_ceramic/figures/s3_strategies.png
+findfont: Failed to find font weight normal for WenQuanYi Zen Hei, now using 500.
+saved /home/user/claude/tgv_glass_ceramic/figures/s3_collar_map.png

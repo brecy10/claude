@@ -1,0 +1,21 @@
+# C. Glass-ceramics for packaging (subagent summary; snippet-based)
+- NEG GC Core (5 Jun 2024): glass powder + ceramic powder composite (LTCC-based); crack-free CO2 laser drilling; GCC-1 300 mm sq, 0.4 mm, phi75 um @250 um pitch, >20,000 holes/min (Via Mechanics). Nov 2024 JDA Via Mechanics. 15 Jan 2025: 515x510 mm, 1.0 mm panel; MP process target 2026. May 2025: 0.5 mm, phi90 um.
+- GC Core grades: GCC-1 Dk 3.9/3.8 (2.45/40 GHz), Df 0.0013/0.0016, CTE 6.1, bend 150 MPa; GCC-2 Dk 7.0/6.8, Df 0.0002/0.0004, CTE 8.9, 260 MPa; GCC-3 Dk 7.9/7.6, Df 0.0004/0.0007, CTE 7.4, 340 MPa. No k, E, KIC published.
+- Patent WO2026100288A1 (NEG, pub 2026-05-15): crystal CTE / glass CTE = 2-8; crystal 2-50 wt%; cracks worsen with substrate size due to strain accumulation.
+- 3DGS APEX: Dk 6.4, Df 0.0102 (0-20 GHz), CTE 10, Tg 452C, E 80 GPa; 10 um vias @20 um pitch in 100 um (AR 10).
+- FOTURAN II: 30:1 selectivity; 20-30 um features; roughness 1-3 um; <=10,000 holes/cm2; 0.5-1.3 mm. Classic Foturan HF ~10 um/min crystallized, 20x faster (32-68:1); Stillman, Judy, Helvajian SPIE 6882 (2008) AR 100 trench.
+- Hoya PEG3 US 8,002,959: UV expose, ~400C, HF -> phi50 um holes, then flood UV + ~850C/2h full ceram (precedent for drill-then-ceram).
+- Corning Pyroceram 9606 cordierite: Dk 5.5 @8.6 GHz, Df 0.0003 (US 4,304,603).
+- Kyocera multilayer ceramic core (ECTC 2026): vias 75 um @200 um pitch pre-sinter.
+- LTCC: Ferro A6M Dk 5.6-6.14, Df ~0.002 to W-band; DuPont 951 Dk 7.8 Df 0.006.
+- Shearer, Eltantawy, Montazerian, Lanagan, Mauro, "Glass-Ceramic Substrates for Electronics Packaging", Adv. Electron. Mater. 11(20) e00331 (2025) doi:10.1002/aelm.202500331 - only dedicated review.
+- NO peer-reviewed paper on TGVs in melt-derived ceramized GC (LAS/MAS/LS2).
+- Zerodur: CTE 0+-0.007, E 90.3, nu 0.24, KIC 0.9, k 1.46, crystals 50-80 nm, 70-78 wt%.
+- LS2: KIC 0.80 (glass) -> 3.05 (80% cryst); strength 117 -> 297 MPa; IPS e.max 2.65-2.81.
+- Indialite/cordierite (Ohsato): Dk 4.7, Qf>200,000 GHz; TiO2 seeding ~10 um crystals.
+- Laser amorphization: Naumov, Lotarev, Lipatiev, Shakhgildyan, Fedotov, Sigaev, Inorg. Mater. 59:404-409 (2023) doi:10.1134/S0020168523040088: fs amorphizes beta-eucryptite-like crystals in LAS GC, dn=-0.0035; ZMAS gahnite dn=+0.0007. No etch selectivity measured.
+- Laser-induced crystallization: JNCS 383:91-96 (2014) review; Komatsu & Honma (Frontiers Mater 2016 doi:10.3389/fmats.2016.00032) crystal lines (beta-BBO, LiNbO3, Li2Si2O5).
+- fs-amorphized LiNbO3 tracks etch up to 1e4x faster in HF; HF self-terminates ~1.5 mm channel.
+- CO2 drilling glass: Fraunhofer 51% holes cracked after TC; JEAS 2023 doi:10.1186/s44147-023-00311-8: high CTE->cracks, low softening->HAZ; Mitsubishi pulsed CO2 phi25 um >200 holes/s.
+- iNEMI MAESTRO: ideal CTE ~8 ppm/C for packaging.
+- Gaps (11): fs+etch TGV in ceramized GC; etch selectivity amorphized track vs crystalline matrix; drill-then-ceram distortion/shrinkage; crystal size effects on Bessel fidelity; laser-induced CTE-graded collars; roughness/HAZ in CO2-drilled GC & mmWave loss; metallization/TC/pumping reliability; KIC/strength after drilling; Dk/Df >40-110 GHz; k of GC core; ceramming shrinkage on 515x510 panels.

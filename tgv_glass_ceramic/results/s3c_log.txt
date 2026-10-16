@@ -1,0 +1,11 @@
+griffith 0.0014129206038068969 0.013755977483126222 s0 25.299145301617777
+t 151.98884534835815
+hole/core 0.29857587248764306 0.6715392978924846
+t 330.9001235961914
+findfont: Failed to find font weight normal for WenQuanYi Zen Hei, now using 500.
+findfont: Failed to find font weight normal for WenQuanYi Zen Hei, now using 500.
+findfont: Failed to find font weight normal for WenQuanYi Zen Hei, now using 500.
+findfont: Failed to find font weight normal for WenQuanYi Zen Hei, now using 500.
+findfont: Failed to find font weight normal for WenQuanYi Zen Hei, now using 500.
+findfont: Failed to find font weight normal for WenQuanYi Zen Hei, now using 500.
+saved /home/user/claude/tgv_glass_ceramic/figures/s3c_fracture_closedloop.png

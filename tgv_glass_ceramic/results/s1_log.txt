@@ -1,0 +1,49 @@
+findfont: Failed to find font weight normal for WenQuanYi Zen Hei, now using 500.
+findfont: Failed to find font weight normal for WenQuanYi Zen Hei, now using 500.
+findfont: Failed to find font weight normal for WenQuanYi Zen Hei, now using 500.
+Font 'default' does not have a glyph for '\u2212' [U+2212], substituting with a dummy symbol.
+Font 'default' does not have a glyph for '\u2212' [U+2212], substituting with a dummy symbol.
+Font 'default' does not have a glyph for '\u2212' [U+2212], substituting with a dummy symbol.
+Font 'default' does not have a glyph for '\u2212' [U+2212], substituting with a dummy symbol.
+Font 'default' does not have a glyph for '\u2212' [U+2212], substituting with a dummy symbol.
+Font 'default' does not have a glyph for '\u2212' [U+2212], substituting with a dummy symbol.
+Font 'default' does not have a glyph for '\u2212' [U+2212], substituting with a dummy symbol.
+Font 'default' does not have a glyph for '\u2212' [U+2212], substituting with a dummy symbol.
+Font 'default' does not have a glyph for '\u2212' [U+2212], substituting with a dummy symbol.
+Font 'default' does not have a glyph for '\u2212' [U+2212], substituting with a dummy symbol.
+Font 'default' does not have a glyph for '\u2212' [U+2212], substituting with a dummy symbol.
+Font 'default' does not have a glyph for '\u2212' [U+2212], substituting with a dummy symbol.
+findfont: Failed to find font weight normal for WenQuanYi Zen Hei, now using 500.
+Font 'default' does not have a glyph for '\u2212' [U+2212], substituting with a dummy symbol.
+Font 'default' does not have a glyph for '\u2212' [U+2212], substituting with a dummy symbol.
+findfont: Failed to find font weight normal for WenQuanYi Zen Hei, now using 500.
+findfont: Failed to find font weight normal for WenQuanYi Zen Hei, now using 500.
+findfont: Failed to find font weight normal for WenQuanYi Zen Hei, now using 500.
+Font 'default' does not have a glyph for '\u2212' [U+2212], substituting with a dummy symbol.
+Font 'default' does not have a glyph for '\u2212' [U+2212], substituting with a dummy symbol.
+Font 'default' does not have a glyph for '\u2212' [U+2212], substituting with a dummy symbol.
+Font 'default' does not have a glyph for '\u2212' [U+2212], substituting with a dummy symbol.
+Font 'default' does not have a glyph for '\u2212' [U+2212], substituting with a dummy symbol.
+Font 'default' does not have a glyph for '\u2212' [U+2212], substituting with a dummy symbol.
+Font 'default' does not have a glyph for '\u2212' [U+2212], substituting with a dummy symbol.
+Font 'default' does not have a glyph for '\u2212' [U+2212], substituting with a dummy symbol.
+Font 'default' does not have a glyph for '\u2212' [U+2212], substituting with a dummy symbol.
+Font 'default' does not have a glyph for '\u2212' [U+2212], substituting with a dummy symbol.
+Font 'default' does not have a glyph for '\u2212' [U+2212], substituting with a dummy symbol.
+Font 'default' does not have a glyph for '\u2212' [U+2212], substituting with a dummy symbol.
+Font 'default' does not have a glyph for '\u2212' [U+2212], substituting with a dummy symbol.
+Font 'default' does not have a glyph for '\u2212' [U+2212], substituting with a dummy symbol.
+saved /home/user/claude/tgv_glass_ceramic/figures/s1_scattering.png
+dmax {'β-石英ss Δn=0.015': {'conservative': 189.63534064841875, 'optimistic': 189.63534064841875}, '堇青石 Δn=0.010': {'conservative': 274.039315008149, 'optimistic': 274.039315008149}, '镁橄榄石 Δn=0.12': {'conservative': 43.48554201064734, 'optimistic': 72.14372850942098}, 'nucleant_10nm_T': 0.9980416524096004, 'nucleant_25nm_T': 0.9698289044694641} mie err {'堇青石/玻璃 Δn≈0.01': 0.0038617222445499325, '镁橄榄石/玻璃 Δn≈0.12': 0.00312127095856355}
+saved /home/user/claude/tgv_glass_ceramic/figures/s1_transparency_map.png
+MC {'d_nm': 150.0, 'dn': 0.11999999999999988, 'mus_per_mm': np.float64(5.7799163156719455), 'g': np.float64(0.0820084343359831), 'ballistic_MC': np.float64(0.05519), 'ballistic_BL': np.float64(0.05557853808913834), 'total_T': np.float64(0.407035), 'diffuse': np.float64(0.351845)}
+MC {'d_nm': 250.0, 'dn': 0.11999999999999988, 'mus_per_mm': np.float64(24.343297986143607), 'g': np.float64(0.2336945718559686), 'ballistic_MC': np.float64(1e-05), 'ballistic_BL': np.float64(5.175115019488061e-06), 'total_T': np.float64(0.15632), 'diffuse': np.float64(0.15631)}
+MC {'d_nm': 600.0, 'dn': 0.010000000000000009, 'mus_per_mm': np.float64(0.658397811989779), 'g': np.float64(0.7806502304467983), 'ballistic_MC': np.float64(0.72005), 'ballistic_BL': np.float64(0.7194998896717526), 'total_T': np.float64(0.97974), 'diffuse': np.float64(0.25969)}
+MC {'d_nm': 1500.0, 'dn': 0.010000000000000009, 'mus_per_mm': np.float64(1.9934971486450583), 'g': np.float64(0.9486005178192569), 'ballistic_MC': np.float64(0.367995), 'ballistic_BL': np.float64(0.3690775205101589), 'total_T': np.float64(0.987765), 'diffuse': np.float64(0.61977)}
+saved /home/user/claude/tgv_glass_ceramic/figures/s1_montecarlo.png
+heat validation err 0.009796575676809232
+Font 'default' does not have a glyph for '\u2212' [U+2212], substituting with a dummy symbol.
+Font 'default' does not have a glyph for '\u2212' [U+2212], substituting with a dummy symbol.
+Font 'default' does not have a glyph for '\u2212' [U+2212], substituting with a dummy symbol.
+Font 'default' does not have a glyph for '\u2212' [U+2212], substituting with a dummy symbol.
+saved /home/user/claude/tgv_glass_ceramic/figures/s1_heat_accumulation.png

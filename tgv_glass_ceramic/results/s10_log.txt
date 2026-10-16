@@ -1,0 +1,5 @@
+findfont: Failed to find font weight normal for WenQuanYi Zen Hei, now using 500.
+findfont: Failed to find font weight normal for WenQuanYi Zen Hei, now using 500.
+findfont: Failed to find font weight normal for WenQuanYi Zen Hei, now using 500.
+saved /home/user/claude/tgv_glass_ceramic/figures/s10_sobol.png
+{'crack': {'基板CTE α_s': np.float64(0.113), '基板模量 E_s': np.float64(0.102), '基板泊松比': np.float64(0.002), '通孔直径 d': np.float64(0.222), '峰值温度': np.float64(0.137), 'Cu CTE': np.float64(0.002), 'Cu 模量': np.float64(0.001), '断裂韧性 K_IC': np.float64(0.321), '界面粘结因子 β': np.float64(0.1)}, 'il140': {'Dk': np.float64(0.136), 'Df@10GHz': np.float64(0.2), '损耗频散指数': np.float64(0.11), '侧壁粗糙度 Rq': np.float64(0.007), '通孔直径 d': np.float64(0.05), '节距/直径 p/d': np.float64(0.359), '基板厚度 t': np.float64(0.265)}}
